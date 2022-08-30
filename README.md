@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Estudante atualmente procurando por uma vaga de Estágio ou Jr. 
+Conhecimento em logíca da programação e conhecimento base 
+em linguagens C#, Java e Python
+
+Atualmente estudando JavaScript 😉
+
 <!--
 **brunoh-ms/brunoh-ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
