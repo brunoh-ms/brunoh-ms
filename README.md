@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Estudante atualmente procurando por uma vaga de Estágio ou Jr. 
-Conhecimento em logíca da programação e conhecimento base 
-em linguagens C#, Java e Python
+Profissional na area de infraestrutura atualmente estudando programação conhecimento em redes, configuração manutenção e monitoramento, conhecimento nas linguagens C#, Java e Python
 
 Atualmente estudando JavaScript 😉
 
